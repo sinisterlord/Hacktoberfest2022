@@ -1,4 +1,4 @@
-# Hacktoberfest2022
+# Hacktoberfest 2022
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.netlify.com/)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)&nbsp;
