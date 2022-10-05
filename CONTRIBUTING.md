@@ -9,6 +9,6 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 - Generate a pull request into the original repo :)
 
 # More !
-- Do Good contributuions only.
+- Do Good contributions only.
 - PRs will be merged after proper review.
-- Explain a little bit about the changes you did in the PR comments.
+- Explain about the changes you did in the PR comments.
