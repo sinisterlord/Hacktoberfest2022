@@ -30,3 +30,5 @@ All contributions, bug reports, bug fixes, improvements, enhancements, and ideas
 <a href="https://github.com/sinisterlord/Hacktoberfest2022/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=sinisterlord/Hacktoberfest2022" />
 </a>
+
+Thanks for Giving your time...
