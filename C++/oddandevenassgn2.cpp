@@ -5,7 +5,8 @@ int main()
 	int n;
 	cout<<"Enter the no ";
 	cin>>n;
-	if(n%2==0)
+	int x = 01;
+	if((n&x)==0)
 	{
 		cout<<"The number is even";
 	}
